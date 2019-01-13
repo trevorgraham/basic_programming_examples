@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c5976193-16d2-4318-afc8-56df4897c821" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="68610319">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.12" value="2" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.15" value="2" />
+          <entry key="project.open.time.16" value="2" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="WarmupOne28StringESolution" value="2" />
+          <entry key="class" value="1" />
+          <entry key="java" value="16" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="JAVA" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="WarmupOne28StringESolution" value="78" />
+          <entry key="dummy" value="4" />
+          <entry key="java" value="3516" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="3594" />
+          <entry key="PLAIN_TEXT" value="4" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/coding_bat/StringOne32WithoutX.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/coding_bat/StringOne33WithoutX2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/coding_bat/StringTwo33WithoutX2Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#514#515#0" expanded="true" />
+                <element signature="e#571#572#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/coding_bat/StringOne32WithoutXTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="22" selection-start-line="19" selection-end-line="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#525#526#0" expanded="true" />
+                <element signature="e#584#585#0" expanded="true" />
+                <element signature="e#640#641#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/hello_world/HelloWorld.java" />
+        <option value="$PROJECT_DIR$/src/main/java/codingbat/WarmupOne28StringESolution" />
+        <option value="$PROJECT_DIR$/src/test/java/codingbattests/WarmupOne28StringESolution.java" />
+        <option value="$PROJECT_DIR$/src/test/java/codingbattests/WarmupOne28StringESolutionTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/coding_bat/WarmupOne28StringE.java" />
+        <option value="$PROJECT_DIR$/src/main/java/coding_bat/WarmupOne29LastDigit.java" />
+        <option value="$PROJECT_DIR$/src/test/java/coding_bat/WarmupOne29LastDigitTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/coding_bat/WarmupOne30EndUpTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/coding_bat/WarmupOne30EndUp.java" />
+        <option value="$PROJECT_DIR$/src/test/java/coding_bat/WarmupOne28StringETest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/coding_bat/WarmupOne31EveryNthTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/coding_bat/WarmupOne31EveryNth.java" />
+        <option value="$PROJECT_DIR$/src/test/java/coding_bat/StringOne32WithoutXTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/coding_bat/StringOne32WithoutX.java" />
+        <option value="$PROJECT_DIR$/src/test/java/coding_bat/StringTwo33WithoutX2Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/coding_bat/StringOne33WithoutX2.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="121" />
+    <option name="y" value="877" />
+    <option name="width" value="1750" />
+    <option name="height" value="970" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="basic_programming_examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basic_programming_examples" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basic_programming_examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basic_programming_examples" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basic_programming_examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basic_programming_examples" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basic_programming_examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basic_programming_examples" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basic_programming_examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basic_programming_examples" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="coding_bat" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basic_programming_examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basic_programming_examples" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basic_programming_examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basic_programming_examples" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basic_programming_examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basic_programming_examples" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="coding_bat" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547418877000" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.StringTwo33WithoutX2Test.givenStringHxireturnStringHi">
+    <configuration name="StringOne32WithoutXTest.givenAStringXHiXReturnStringHi" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="basic_programming_examples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="coding_bat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="coding_bat" />
+      <option name="MAIN_CLASS_NAME" value="coding_bat.StringOne32WithoutXTest" />
+      <option name="METHOD_NAME" value="givenAStringXHiXReturnStringHi" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringOne32WithoutXTest.givenstringXhireturnStringHi" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="basic_programming_examples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="coding_bat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="coding_bat" />
+      <option name="MAIN_CLASS_NAME" value="coding_bat.StringOne32WithoutXTest" />
+      <option name="METHOD_NAME" value="givenstringXhireturnStringHi" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringTwo33WithoutX2Test.givenStringHxireturnStringHi" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="basic_programming_examples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="coding_bat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="coding_bat" />
+      <option name="MAIN_CLASS_NAME" value="coding_bat.StringTwo33WithoutX2Test" />
+      <option name="METHOD_NAME" value="givenStringHxireturnStringHi" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringTwo33WithoutX2Test.givenStringXHireturnStringHi" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="basic_programming_examples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="coding_bat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="coding_bat" />
+      <option name="MAIN_CLASS_NAME" value="coding_bat.StringTwo33WithoutX2Test" />
+      <option name="METHOD_NAME" value="givenStringXHireturnStringHi" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WarmupOne31EveryNthTest.givenAtringAbcdefgAndInt2ReturnStringAceg" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="basic_programming_examples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="coding_bat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="coding_bat" />
+      <option name="MAIN_CLASS_NAME" value="coding_bat.WarmupOne31EveryNthTest" />
+      <option name="METHOD_NAME" value="givenAtringAbcdefgAndInt2ReturnStringAceg" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.WarmupOne31EveryNthTest.givenAtringAbcdefgAndInt2ReturnStringAceg" />
+      <item itemvalue="JUnit.StringOne32WithoutXTest.givenAStringXHiXReturnStringHi" />
+      <item itemvalue="JUnit.StringOne32WithoutXTest.givenstringXhireturnStringHi" />
+      <item itemvalue="JUnit.StringTwo33WithoutX2Test.givenStringXHireturnStringHi" />
+      <item itemvalue="JUnit.StringTwo33WithoutX2Test.givenStringHxireturnStringHi" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.StringTwo33WithoutX2Test.givenStringHxireturnStringHi" />
+        <item itemvalue="JUnit.StringTwo33WithoutX2Test.givenStringXHireturnStringHi" />
+        <item itemvalue="JUnit.StringOne32WithoutXTest.givenstringXhireturnStringHi" />
+        <item itemvalue="JUnit.StringOne32WithoutXTest.givenAStringXHiXReturnStringHi" />
+        <item itemvalue="JUnit.WarmupOne31EveryNthTest.givenAtringAbcdefgAndInt2ReturnStringAceg" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5976193-16d2-4318-afc8-56df4897c821" name="Default Changelist" comment="" />
+      <created>1542065349908</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542065349908</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="StringTwo33WithoutX2Test_givenStringHxireturnStringHi - 2019.01.04 at 00h 06m 53s.xml">
+      <configuration name="StringTwo33WithoutX2Test.givenStringHxireturnStringHi" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringTwo33WithoutX2Test_givenStringHxireturnStringHi - 2019.01.04 at 00h 07m 52s.xml">
+      <configuration name="StringTwo33WithoutX2Test.givenStringHxireturnStringHi" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringTwo33WithoutX2Test_givenStringXHireturnStringHi - 2019.01.04 at 00h 10m 26s.xml">
+      <configuration name="StringTwo33WithoutX2Test.givenStringXHireturnStringHi" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringTwo33WithoutX2Test_givenStringHxireturnStringHi - 2019.01.04 at 00h 12m 33s.xml">
+      <configuration name="StringTwo33WithoutX2Test.givenStringHxireturnStringHi" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringTwo33WithoutX2Test_givenStringHxireturnStringHi - 2019.01.04 at 00h 12m 46s.xml">
+      <configuration name="StringTwo33WithoutX2Test.givenStringHxireturnStringHi" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringTwo33WithoutX2Test_givenStringHxireturnStringHi - 2019.01.04 at 00h 13m 22s.xml">
+      <configuration name="StringTwo33WithoutX2Test.givenStringHxireturnStringHi" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringTwo33WithoutX2Test_givenStringHxireturnStringHi - 2019.01.04 at 00h 14m 03s.xml">
+      <configuration name="StringTwo33WithoutX2Test.givenStringHxireturnStringHi" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringTwo33WithoutX2Test_givenStringXHireturnStringHi - 2019.01.04 at 00h 16m 11s.xml">
+      <configuration name="StringTwo33WithoutX2Test.givenStringXHireturnStringHi" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringTwo33WithoutX2Test_givenStringXHireturnStringHi - 2019.01.04 at 00h 18m 16s.xml">
+      <configuration name="StringTwo33WithoutX2Test.givenStringXHireturnStringHi" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringTwo33WithoutX2Test_givenStringHxireturnStringHi - 2019.01.04 at 00h 18m 34s.xml">
+      <configuration name="StringTwo33WithoutX2Test.givenStringHxireturnStringHi" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="140" y="751" width="1400" height="776" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27835822" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.21134752" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3134752" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32765958" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/coding_bat/StringOne33WithoutX2.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/codingbattests/WarmupOne28StringESolutionTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/codingbat/WarmupOne28StringESolution" />
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.13-beta-1/junit-4.13-beta-1.jar!/org/junit/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="155" column="108" selection-start-line="155" selection-start-column="108" selection-end-line="155" selection-end-column="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hello_world/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/coding_bat/WarmupOne29LastDigitTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="31" column="43" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/coding_bat/WarmupOne28StringETest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="55" selection-start-line="17" selection-start-column="55" selection-end-line="17" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/coding_bat/WarmupOne30EndUpTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="26" column="51" selection-start-line="26" selection-start-column="51" selection-end-line="26" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/coding_bat/WarmupOne28StringE.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="22" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/coding_bat/WarmupOne29LastDigit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="22" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/coding_bat/WarmupOne30EndUp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/coding_bat/WarmupOne31EveryNthTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="28" column="51" selection-start-line="28" selection-start-column="51" selection-end-line="28" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#509#510#0" expanded="true" />
+            <element signature="e#530#531#0" expanded="true" />
+            <element signature="e#692#693#0" expanded="true" />
+            <element signature="e#757#758#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/coding_bat/WarmupOne31EveryNth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="22" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="19" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/coding_bat/StringOne32WithoutX.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/coding_bat/StringOne33WithoutX2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/coding_bat/StringOne32WithoutXTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="22" selection-start-line="19" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#525#526#0" expanded="true" />
+            <element signature="e#584#585#0" expanded="true" />
+            <element signature="e#640#641#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/coding_bat/StringTwo33WithoutX2Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#514#515#0" expanded="true" />
+            <element signature="e#571#572#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
