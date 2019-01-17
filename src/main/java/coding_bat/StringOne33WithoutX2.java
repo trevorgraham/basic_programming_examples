@@ -12,11 +12,23 @@ withoutX2("Hi") → "Hi"
 
 public class StringOne33WithoutX2 {
     public String withoutX2(String str){
-        String result= str.substring(2);
-        if(str.substring(1,2)=="x") result = result + str.substring(1);
-        //if(str.substring(0,1)=="x") result = str
-        //result = str.substring(1);
+        String result= "";
+        String two ="";
+        String one= "";
 
+        if(str.length() > 2) result = str.substring(2);
+        if(str.length() > 1){
+            two = str.substring(1,2);
+            if(!two.equals("x")) {
+                result =  str.substring(1,2) + result;
+            }
+        }
+        if(str.length() >0){
+            one = str.substring(0,1);
+            if(!one.equals("x")){
+                result = str.substring(0,1) + result;
+            }
+        }
         return result;
     }
 }
