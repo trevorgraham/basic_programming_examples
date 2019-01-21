@@ -14,7 +14,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
-public class StringTwo33WithoutX2Test {
+public class StringOne33WithoutX2Test {
     StringOne33WithoutX2 calc = new StringOne33WithoutX2();
 
     @Test
